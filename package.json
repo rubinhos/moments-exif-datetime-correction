@@ -1,0 +1,25 @@
+{
+  "name": "moments-exif-datetime-correction",
+  "version": "1.0.0",
+  "description": "A tool to correct the original datetime exif data from images backed up from Moments (by Facebook) using exiftool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubinhos/moments-exif-datetime-correction.git"
+  },
+  "keywords": [
+    "moments",
+    "facebook",
+    "exiftool",
+    "exif"
+  ],
+  "author": "Rubens dos Santos Filho (rubinhos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubinhos/moments-exif-datetime-correction/issues"
+  },
+  "homepage": "https://github.com/rubinhos/moments-exif-datetime-correction#readme"
+}
